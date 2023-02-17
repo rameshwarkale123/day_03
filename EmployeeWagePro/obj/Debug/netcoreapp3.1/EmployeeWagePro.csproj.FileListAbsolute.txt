@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\bin\Debug\netcoreapp3.1\EmployeeWagePro.exe
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\bin\Debug\netcoreapp3.1\EmployeeWagePro.deps.json
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\bin\Debug\netcoreapp3.1\EmployeeWagePro.runtimeconfig.json
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\bin\Debug\netcoreapp3.1\EmployeeWagePro.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\bin\Debug\netcoreapp3.1\EmployeeWagePro.dll
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\bin\Debug\netcoreapp3.1\EmployeeWagePro.pdb
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\obj\Debug\netcoreapp3.1\EmployeeWagePro.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\obj\Debug\netcoreapp3.1\EmployeeWagePro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\obj\Debug\netcoreapp3.1\EmployeeWagePro.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\obj\Debug\netcoreapp3.1\EmployeeWagePro.AssemblyInfo.cs
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\obj\Debug\netcoreapp3.1\EmployeeWagePro.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\obj\Debug\netcoreapp3.1\EmployeeWagePro.dll
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\obj\Debug\netcoreapp3.1\EmployeeWagePro.pdb
+C:\Users\Rameshwar kale\source\repos\EmployeeWagePro\EmployeeWagePro\obj\Debug\netcoreapp3.1\EmployeeWagePro.genruntimeconfig.cache
